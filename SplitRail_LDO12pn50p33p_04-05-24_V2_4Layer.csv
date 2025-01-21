@@ -1,0 +1,37 @@
+,Reference,Value,Footprint,Note,Datasheet,Category,Description,Family,MPN,Manufacturer,Mouser_PN,Sim.Enable,Status,Qty
+y,C11,.33uf,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,~,https://www.mouser.com/datasheet/2/281/1/GRM319R71H334JA01_01A-1987274.pdf,,50VDC 5% 1206 X7R C 3.32e-7 L 5.46e-10 R 1.19e-2,,,Murata,81-GRM319R71H334JA1D,,OKK,1
+y,"C2, C6, C9",22uf,Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder,~,https://www.mouser.com/datasheet/2/281/1/GRM32ER71E226KE15_04CA-1988287.pdf,,25VDC 10% 1210 X7R C 1.54e-5 L 5.14e-10 R 2.74e-3,,,Murata,81-GRM32ER71E226KE5L,,OKK,3
+y,"C3, C7, C10, C14, C18, C23, C27",10uf,Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder,~,https://www.mouser.com/datasheet/2/281/1/GRM32ER71J106KA12_04A-1988327.pdf,,"63VDC 10% 1210 X7R C 9.45e-6, L 4.29e-10, R 2.89e-3",,,Murata,81-GRM32ER71J106KA2L,,OKK,7
+y,"C4, C15, C19, C24, C28",1uf,Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder,~,https://www.mouser.com/datasheet/2/281/1/GRM32RR71H105KA01_01A-1988300.pdf,,50VDC 10% 1210 X7R C 9.18e-7 L 4.18e-10 R 6.88e-3,,,Murata,81-GRM422X105K50K,,OKK,5
+y,"C16, C20, C21, C25",1uf,Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder,~,https://www.mouser.com/datasheet/2/447/KEM_T2005_T491-3316937.pdf,,3216-18 10% ESR=7Ohms,,,Kemet,80-T491A105K35AT7280,,OKK,4
+y,"C13, C17, C22, C26",47uf,Capacitor_Tantalum_SMD:CP_EIA-7343-43_Kemet-X_Pad2.25x2.55mm_HandSolder,~,https://www.mouser.com/datasheet/2/447/KEM_T2076_T52X_530-3317002.pdf,,Tantalum Capacitors - Polymer 35V 47uF 2917 20% ESR=30mOhms,,,Kemet,80-T521X476M35ATE30,,OKK,4
+,J3,Conn_02x02_Counter_Clockwise,Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical,~,~,,,,,,571-872272,,InStock,1
+,D4,S18A,Diode_THT:D_DO-15_P12.70mm_Horizontal,~,https://www.mouser.com/datasheet/2/240/Littelfuse_TVS_Diode_SA_Datasheet_pdf-1317385.pdf,,TVS Unidirection,,,LittelFuse,576-SA18A,,OKK,1
+,"D3, D8",1N5822,Diode_THT:D_DO-201AD_P12.70mm_Horizontal,~,https://www.vishay.com/doc?88526,,Schottky 40V 3A .95A,,,Vishay,625-1N5822-E3/73,,OKK,2
+,"D6, D7",D_SB160,Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal,~,https://www.vishay.com/doc?88715,,Schottky 60V 1A .7V,,,Vishay,625-SB160-E3,,OKK,2
+,D5,MUR120,Diode_THT:D_DO-41_SOD81_P12.70mm_Horizontal,~,https://www.mouser.com/datasheet/2/849/mur105-2578527.pdf,,Fast 200V 1A .875V,,,Diotec,637-MUR120,,OKK,1
+,J1,TE_EP25_2,footprints:Conn_EP25_1744426-2,~,~,,~,,,~,571-1744426-2,,InStock,1
+,J2,TE_EP25-6,footprints:Conn_EP25_1744426-6,~,~,,,,,,571-1744426-6,,InStock,1
+x,"C5, C8, C12",120uf,footprints:CP_Elec_10x14.3_HandSolder,~,https://www.mouser.com/datasheet/2/315/Panasonic_9_21_2023_Capacitor_Hybrid_Anti_Vib__EEH-3316658.pdf,,AO-CAP 63VDC 120uf 12mOhms,,,Panasonic,667-EEH-ZU1J121UP,,OKK,3
+x,C1,1500uf,footprints:CP_Elec_16x22_HandSolder,~,https://www.mouser.com/datasheet/2/315/ABA0000C1179-1274240.pdf,,35V D16 H17,,,Panasonic,667-EEE-FK1V152AV,,OKK,1
+,T1,Q4338-BL,footprints:Q4338-BL,~,https://www.mouser.com/datasheet/2/597/lm258x-463436.pdf,,"Transformer 24->12,12,5",,,,994-Q4338-BL,,OKK,1
+y,"D1, D2",LED,LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~,https://www.kingbrightusa.com/images/catalog/SPEC/APT2012LSECK-J3-PRV.pdf,,"RED, ORANGE, YELLOW, BLUE, GREEN",,,Kingbridge,"604-APT2012LSECKJ3RV, 604-APT2012LZGCK, 604-APT2012LVBCD, 604-APT2012LSECKJ4RV, 604-APT2012LSYCKJ3RV",,InStock,2
+,H1-H8,MountingHole,MountingHole:MountingHole_3.2mm_M3_Pad_Via,~,~,,~,,,~,~,,NAP,8
+,U2-U4,LT1963-adj,Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical,~,https://www.mouser.com/datasheet/2/609/lt1963a-2256452.pdf,,Pos LDO,,,Analog Devices,584-LT1963AET#PBF,,OKK,3
+,U5,LT3015-adj,Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical,~,https://www.mouser.com/datasheet/2/609/3015fb-1271510.pdf,,Neg LDO,,,Analog Devices,584-LT3015ET#PBF,,OKK,1
+,U1,LM2586T-adj,Package_TO_SOT_THT:TO-220-7_P2.54x3.7mm_StaggerOdd_Lead3.8mm_Vertical,~,https://www.ti.com/lit/ds/symlink/lm2586.pdf?ts=1683487973884&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FLM2586,,Flyback controller,,,Texas Instruments,926-LM2586T-ADJ/NOPB,,OKK,1
+,RV1,0-5k,Potentiometer_THT:Potentiometer_Bourns_3266X_Horizontal,~,https://www.mouser.com/datasheet/2/54/3266-776573.pdf,,12 turn,,,Bourns,652-3266X-1-502LF,,OKK,1
+,RV2-RV5,0-1k,Potentiometer_THT:Potentiometer_Bourns_3266X_Horizontal,~,https://www.mouser.com/datasheet/2/54/3266-776573.pdf,,12turn,,,Bourns,652-3266X-1-102LF,,OKK,4
+y,"R1, R3, R12",2k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,https://www.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf,,~,,,Yageo,603-RT1206FRE072KL,,OKK,6
+y,R2,6.04k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,https://www.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf,,~,,,Yageo,603-RT1206FRE076K04L,,OKK,1
+,R4,316->1500,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,Used 1.5k THD,https://www.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf,,~,,,Yageo,603-RT1206FRE07316RL,,OKK,1
+y,R5,4.99k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,https://www.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf,,~,,,Yageo,603-RT1206FRE074K99L,,OKK,1
+wrong size,"R6, R10, R16, R19",2k->0R,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,Use jumper on 3.3V circuit,https://www.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf,,~,,,Yageo,603-RT1206FRE072KL,,OKK,1
+y,"R7, R11, R17, R18",1k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,https://www.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf,,~,,,Yageo,603-RT1206FRE071KL,,OKK,4
+x,R8,590R->860,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,Used 680R but need 860R dyslexia??,https://www.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf,,~,,,Yageo,603-RT1206FRE07590RL,,OKK,1
+y,R9,3.3k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,https://www.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf,,~,,,Yageo,603-RT1206FRE073K3L,,OKK,1
+,R13,499,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,https://www.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf,,~,,,Yageo,603-RT1206FRE07499RL,,OKK,1
+y,"R14, R21",287R->4.02k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,https://www.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf,,~,,,Yageo,603-RT1206FRE07287RL,,OKK,2
+y,R15,13.3k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,https://www.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf,,~,,,Yageo,603-RT1206FRE0713K3L,,OKK,1
+y,R20,9.1k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,~,https://www.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf,,~,,,Yageo,603-RT1206FRE079K1L,,OKK,1
+,TPG1-TPG4,5001,TestPoint:TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded,,https://www.mouser.com/datasheet/2/215/5005_5009-743680.pdf,Test and Measurement,PC TEST POINT BLACK,Test Points,5001,Keystone Electronics,534-5006,,OKK,4
